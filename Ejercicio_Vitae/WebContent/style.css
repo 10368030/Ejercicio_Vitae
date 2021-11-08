@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #c8dfe2;
+}
+
+p {
+    background-color:  #a7bfc7;
+}
+
+h2 {
+    background-color: #688391;
+    font-weight: bold;
+    color: #415c6b;
+    text-decoration: underline;
+}
+
+span.primero {
+    color: #3b83bd;
+}
+
+span.segundo {
+    color: blue;
+}
+
+h3 {
+    font-style: italic;
+    color: #688391;
+    background-color:#87a1ab ;
+}
+
+h4 {
+    text-align: right;
+    font-style: italic;
+    background-color: white;
+}
